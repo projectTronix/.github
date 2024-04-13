@@ -3,7 +3,7 @@
 ### `product-microservice`
 ### `cart-microservice`
 
-### Tech-Stack for backend - `[Java, Spring Boot, MongoDB, mySQL]`
+### Tech-Stack for backend - `[Java, Spring Boot, MongoDB, mySQL, JWT, Spring Security]`
 
 ## Micro-frontends
 ### `container-mf`
