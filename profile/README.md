@@ -11,6 +11,8 @@
 
 ### Tech-Stack for frontend - `[React, React-bootstrap]`
 
+## View Project Presentation [here](https://www.canva.com/design/DAF-8AasCc0/sC_y5JmA3Sr9UOq3XirNMA/edit?utm_content=DAF-8AasCc0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Available Scripts
 
 In the project directory, you can run:
