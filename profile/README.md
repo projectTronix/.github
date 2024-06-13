@@ -2,6 +2,7 @@
 ### `user-microservice`
 ### `product-microservice`
 ### `cart-microservice`
+### `order-microservice`
 
 ### Tech-Stack for backend - `[Java, Spring Boot, MongoDB, mySQL, JWT, Spring Security]`
 
