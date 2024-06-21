@@ -15,6 +15,14 @@
 
 ## View Project Presentation [here](https://www.canva.com/design/DAF-8AasCc0/sC_y5JmA3Sr9UOq3XirNMA/edit?utm_content=DAF-8AasCc0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+## Screenshots
+<img src="assets/screenshots/catalog.png" width=300/> |
+<img src="assets/screenshots/pdp.png" width=300/> |
+<img src="assets/screenshots/login.png" width=300/>
+<img src="assets/screenshots/cart.png" width=300/> |
+<img src="assets/screenshots/profile.png" width=300/> |
+<img src="assets/screenshots/admin.png" width=300/>
+
 ## Available Scripts
 
 In the project directory, you can run:
